@@ -8,7 +8,7 @@
 
 @{
 
-# Script module or binary module file associated with this manifest.
+# Script nifest.
 RootModule = 'assemblies/OCI.PSModules.Apmcontrolplane.dll'
 
 # Version number of this module.
