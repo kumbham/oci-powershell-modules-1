@@ -8,7 +8,7 @@
 
 @{
 
-# Script module or binary module file associated with this manifest.
+#  this manifest.
 RootModule = 'assemblies/OCI.PSModules.Announcementsservice.dll'
 
 # Version number of this module.
