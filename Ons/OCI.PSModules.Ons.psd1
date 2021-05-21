@@ -24,13 +24,13 @@ GUID = '5db527a1-caef-435a-b9e8-81f76e294a8a'
 Author = 'Oracle Cloud Infrastructure'
 
 # Company or vendor of this module
-CompanyName = 'Oracle Corporation'
+CompanyName = 'Oracle'
 
 # Copyright statement for this module
 Copyright = '(c) Oracle Cloud Infrastructure. All rights reserved.'
 
 # Description of the functionality provided by this module
-Description = 'This modules provides Cmdlets for OCI Ons Service'
+Description = 'This modules for OCI Ons Service'
 
 # Minimum version of the PowerShell engine required by this module
 PowerShellVersion = '6.0'
