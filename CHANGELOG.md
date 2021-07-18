@@ -37,6 +37,12 @@ The format is based on Keep a [Changelog](https://keepachangelog.com/en/1.0.0/).
 - Support for adding customer contacts on autonomous databases in the Database service.
 - Support for name annotations on harvested objects in the Data Catalog service.
 
+
+
+
+
+
+
 ## 13.0.0 - 2021-04-13
 ### Added
 - Support for the Database Migration service.
